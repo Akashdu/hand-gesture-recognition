@@ -6,7 +6,7 @@
 Getting Started
 How to use
 
-git clone https://github.com/aakashjhawar/Hand-Gesture-Recognition.git
+git clone https://github.com/Akashdu/-hand-gesture-recognition
 cd Hand-Gesture-Recognition
 Run the Finger_count.ipynb Jupyter Notebook
 
