@@ -1,4 +1,4 @@
-# -hand-gesture-recognition
+# hand-gesture-recognition
  Extract and segment hand region from the video sequence.
 
 • Recognize the number of fingers from the segmented hand region by using Convex Hull.
